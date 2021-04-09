@@ -1,3 +1,3 @@
-Cześć, mam na imię <<imię>>, lubię programować, teraz się uczę 
-<<technologia>>. Moim ulubionym hobby jest <<twoje_hobby>>.
-Pozdrawiam w roku <<obecny_rok>>
+Cześć, mam na imię Maciej, lubię programować, teraz się uczę 
+git. Moim ulubionym hobby jest thinking.
+Pozdrawiam w roku 2021
