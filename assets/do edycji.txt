@@ -1,0 +1,3 @@
+Cześć, mam na imię <<imię>>, lubię programować, teraz się uczę 
+<<technologia>>. Moim ulubionym hobby jest <<twoje_hobby>>.
+Pozdrawiam w roku <<obecny_rok>>
