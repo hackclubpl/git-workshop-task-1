@@ -1,2 +1,2 @@
-# git-workshop-task-1
+# git-workshop-tasks
 These are your tasks bros.
